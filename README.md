@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Front-End Web App (HTML, CSS, JS)</b>
+- <b>Front-End Web App (HTML, CSS, JS, TS, Tailwind, React.js, Next.js)</b>
   - [3D portfolio](https://michael-portfolio-mu-sepia.vercel.app/)<b><i>(Main Portfolio)</b></i>
   - [Nike](https://nike-ecommarce.netlify.app/) 
   - [Awwwards](https://awwwards-ruby.vercel.app/) 
