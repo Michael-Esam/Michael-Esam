@@ -3,7 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front-End Web App (HTML, CSS, JS)</b>
-  - [main portfolio](https://michael-esam.github.io/Micheal-project-one/)<b><i>(Main Portfolio)</b></i>
+  - [3D portfolio](https://michael-portfolio-mu-sepia.vercel.app/)<b><i>(Main Portfolio)</b></i>
+  - [Nike](https://nike-ecommarce.netlify.app/) 
+  - [Awwwards](https://awwwards-ruby.vercel.app/) 
   - [Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Kasper](https://michael-esam.github.io/project-two/)
 
